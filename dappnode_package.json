@@ -36,6 +36,6 @@
     "url": "https://github.com/dappnode/DAppNodePackage-prysm-beacon-chain/issues"
   },
   "dependencies": {
-    "prysm-beacon-chain.public.dappnode.eth": "/ipfs/QmeT4Nz8T8S6mPWyb6xaGZppC5vkNUAJfPYoDaGHV4UpMF"
+    "prysm-beacon-chain.public.dappnode.eth": "/ipfs/QmNsGb5atP447JJeSzZnvKNvwuvaXyQxCHZondQXWBbiFK"
   }
 }
