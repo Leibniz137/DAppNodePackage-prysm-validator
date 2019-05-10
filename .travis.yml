@@ -13,7 +13,6 @@ sudo: required
 # ########################
 
 stages:
-  - name: test
   - name: build-test
     if: tag !~ /^release\/(major|minor|patch)$/
   - name: release
@@ -21,19 +20,6 @@ stages:
 
 jobs:
   include:
-    - stage: test
-      node_js:
-        - "10.15.3"
-      cache:
-        directories:
-          - build/src/node_modules
-      install:
-        # This is a dockerized application, the node app is in /build/src
-        - cd ./build/src
-        - npm install
-      script:
-        - npm test
-
     # Test that it builds correctly
     ###############################
     - stage: build-test
