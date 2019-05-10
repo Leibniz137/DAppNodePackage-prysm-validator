@@ -1,0 +1,41 @@
+{
+  "name": "prysm-validator.public.dappnode.eth",
+  "version": "0.0.1",
+  "description": "A validator client which manages a staking user's private/public keys, connects to a beacon node, and acts as a validator in Ethereum 2.0 by staking 32 ETH and participating in proof of stake consensus by proposing and voting on blocks",
+  "avatar": "/ipfs/QmTF6W5LAoUaPfKwYiLH1fiqv4AyEJjyVYF98B6wTNYemv",
+  "type": "service",
+  "image": {
+    "path": "prysm-validator.public.dappnode.eth_0.0.1.tar.xz",
+    "hash": "/ipfs/QmajoqkUayGYqPXiZ5Fu4jVQ1nqtLXW68rqvN2stZ8hVZG",
+    "size": 14890020,
+    "restart": "always",
+    "environment": [
+      "PASSWORD="
+    ],
+    "external_vol": [
+      "prysmpublicdappnodeeth_data:/date"
+    ],
+    "keywords": [
+      "Ethereum2.0",
+      "DAppNode"
+    ]
+  },
+  "author": "DAppNode Association <admin@dappnode.io> (https://github.com/dappnode)",
+  "contributors": [
+    "Eduardo Antuña <eduadiez@gmail.com> (https://github.com/eduadiez)"
+  ],
+  "license": "GPL-3.0",
+  "homepage": {
+    "homepage": "https://alpha.prylabs.net/participate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dappnode/DAppNodePackage-prysm-beacon-chaingit"
+  },
+  "bugs": {
+    "url": "https://github.com/dappnode/DAppNodePackage-prysm-beacon-chain/issues"
+  },
+  "dependencies": {
+    "prysm-beacon-chain.public.dappnode.eth": "/ipfs/QmeT4Nz8T8S6mPWyb6xaGZppC5vkNUAJfPYoDaGHV4UpMF"
+  }
+}
