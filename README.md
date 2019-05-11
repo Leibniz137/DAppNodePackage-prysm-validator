@@ -1,6 +1,6 @@
 # Prysm validator Ethereum2.0 DAppNode Package
 
-[![DAppNode Available](https://img.shields.io/badge/DAppNode-Available-brightgreen.svg)](http://my.admin.dnp.dappnode.eth/#/installer/vipnode.dnp.dappnode.eth)
+[![DAppNode Available](https://img.shields.io/badge/DAppNode-Available-brightgreen.svg)](http://my.admin.dnp.dappnode.eth/#/installer/%2Fipfs%2FQmUHPcP4vv2bk58QnCzwbfs5dWcJCbhWdXgDnLUgjpRRQa)
 
 [![Prysm github](https://img.shields.io/badge/Prysm-Github-blue.svg)](https://alpha.prylabs.net/)
 [![Prysm participate](https://img.shields.io/badge/Prysm-website-753a88.svg)](https://alpha.prylabs.net/participate)
@@ -9,7 +9,7 @@
 
 1. Install the DAppNodePackage: 
 
-[![DAppNode Install](https://img.shields.io/badge/DAppNode-Install-blue.svg)](http://my.admin.dnp.dappnode.eth/#/installer/%2Fipfs%2FQmNsGb5atP447JJeSzZnvKNvwuvaXyQxCHZondQXWBbiFK)
+[![DAppNode Install](https://img.shields.io/badge/DAppNode-Install-blue.svg)](http://my.admin.dnp.dappnode.eth/#/installer/%2Fipfs%2FQmUHPcP4vv2bk58QnCzwbfs5dWcJCbhWdXgDnLUgjpRRQa)
 
 2. After the installation the beacon-chain and the validator should be running on your DAppNode: http://my.dappnode/#/packages
 
