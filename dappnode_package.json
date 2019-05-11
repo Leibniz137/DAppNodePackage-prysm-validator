@@ -13,7 +13,7 @@
       "PASSWORD="
     ],
     "external_vol": [
-      "prysmpublicdappnodeeth_data:/date"
+      "prysmbeaconchainpublicdappnodeeth_data:/data"
     ],
     "keywords": [
       "Ethereum2.0",

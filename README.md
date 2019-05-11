@@ -11,6 +11,8 @@
 
 [![DAppNode Install](https://img.shields.io/badge/DAppNode-Install-blue.svg)](http://my.admin.dnp.dappnode.eth/#/installer/%2Fipfs%2FQmUHPcP4vv2bk58QnCzwbfs5dWcJCbhWdXgDnLUgjpRRQa)
 
+    **NOTE:** You can choose a password for your account or the package will auto generate a random one automatically at the first start
+
 2. After the installation the beacon-chain and the validator should be running on your DAppNode: http://my.dappnode/#/packages
 
 ![](https://imgur.com/11y8pgQ)
