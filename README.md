@@ -15,7 +15,7 @@
 
 2. After the installation the beacon-chain and the validator should be running on your DAppNode: http://my.dappnode/#/packages
 
-![](https://imgur.com/11y8pgQ)
+![](https://i.imgur.com/11y8pgQ.png)
 
 3. Go to https://alpha.prylabs.net/participate
 
@@ -38,20 +38,20 @@
         ===========================================================
         ```
     * Paste the value `0xbc0000006...` in the field `your validator deposit data`
-   ![](https://imgur.com/mZVLC6u)
+   ![](https://i.imgur.com/mZVLC6u.png)
    
     3.2 Skip step four and go to number five (Send a validator deposit) and `Make deposit`.
 
     3.3 Wait for your validator assignment (it takes a while)
     
-    ![](https://imgur.com/fmDspYw)
+    ![](https://i.imgur.com/fmDspYw.png)
     
     
 **Congratulations! With this you will already have a network validator node on testnet**
 
 You can check it by looking at the validator logs: http://my.dappnode/#/Packages/prysm-validator.public.dappnode.eth
 
-![](https://imgur.com/Sfq88es)
+![](https://i.imgur.com/Sfq88es.png)
 
 
 ## Note
