@@ -2,8 +2,8 @@
 
 [![DAppNode Available](https://img.shields.io/badge/DAppNode-Available-brightgreen.svg)](http://my.admin.dnp.dappnode.eth/#/installer/%2Fipfs%2FQmcdLWd6NEFdeMjNZL4FVqoepPa2tJ5um3vrdyRGApQMwW)
 
-[![Prysm github](https://img.shields.io/badge/Prysm-Github-blue.svg)](https://alpha.prylabs.net/)
-[![Prysm participate](https://img.shields.io/badge/Prysm-website-753a88.svg)](https://alpha.prylabs.net/participate)
+[![Prysm github](https://img.shields.io/badge/Prysm-Github-blue.svg)](https://prylabs.net/)
+[![Prysm participate](https://img.shields.io/badge/Prysm-website-753a88.svg)](https://prylabs.net/participate)
 
 # Installation Notes
 

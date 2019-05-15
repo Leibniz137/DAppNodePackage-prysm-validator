@@ -9,7 +9,7 @@ RUN echo "deb [arch=amd64] http://storage.googleapis.com/bazel-apt stable jdk1.8
 
 # Set up workspace
 WORKDIR /usr/src/app
-ENV BRANCH master
+ENV BRANCH 0.1.2
 RUN git clone -b ${BRANCH} https://github.com/prysmaticlabs/prysm.git /usr/src/app && \
     bazel build //validator:validator
 
