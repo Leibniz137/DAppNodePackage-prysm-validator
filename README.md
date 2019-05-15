@@ -17,7 +17,7 @@
 
 ![](https://i.imgur.com/11y8pgQ.png)
 
-3. Go to https://alpha.prylabs.net/participate
+3. Go to https://prylabs.net/participate
 
     3.1 Skip step one, go to number two (Get GöETH — Test ether) and follow the steps
 
