@@ -1,6 +1,6 @@
 # Prysm validator Ethereum2.0 DAppNode Package
 
-[![DAppNode Available](https://img.shields.io/badge/DAppNode-Available-brightgreen.svg)](http://my.admin.dnp.dappnode.eth/#/installer/%2Fipfs%2FQmcdLWd6NEFdeMjNZL4FVqoepPa2tJ5um3vrdyRGApQMwW)
+[![DAppNode Available](https://img.shields.io/badge/DAppNode-Available-brightgreen.svg)](http://my.admin.dnp.dappnode.eth/#/installer/%2Fipfs%2FQmb6E3GRREeDveyg7AHBQGMTPLa2u53YE3QLhXiE88Jbo8)
 
 [![Prysm github](https://img.shields.io/badge/Prysm-Github-blue.svg)](https://prylabs.net/)
 [![Prysm participate](https://img.shields.io/badge/Prysm-website-753a88.svg)](https://prylabs.net/participate)
@@ -9,7 +9,7 @@
 
 1. Install the DAppNodePackage: 
 
-   [![DAppNode Install](https://img.shields.io/badge/DAppNode-Install-blue.svg)](http://my.admin.dnp.dappnode.eth/#/installer/%2Fipfs%2FQmcdLWd6NEFdeMjNZL4FVqoepPa2tJ5um3vrdyRGApQMwW)
+   [![DAppNode Install](https://img.shields.io/badge/DAppNode-Install-blue.svg)](http://my.admin.dnp.dappnode.eth/#/installer/%2Fipfs%2FQmb6E3GRREeDveyg7AHBQGMTPLa2u53YE3QLhXiE88Jbo8)
 
    **NOTE:** You can choose a password for your account or the package will auto generate a random one automatically at the first start
 
