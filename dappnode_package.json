@@ -1,13 +1,13 @@
 {
   "name": "prysm-validator.public.dappnode.eth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A validator client which manages a staking user's private/public keys, connects to a beacon node, and acts as a validator in Ethereum 2.0 by staking 3.2 ETH and participating in proof of stake consensus by proposing and voting on blocks",
   "avatar": "/ipfs/QmTF6W5LAoUaPfKwYiLH1fiqv4AyEJjyVYF98B6wTNYemv",
   "type": "service",
   "image": {
-    "path": "prysm-validator.public.dappnode.eth_0.0.1.tar.xz",
-    "hash": "/ipfs/QmajoqkUayGYqPXiZ5Fu4jVQ1nqtLXW68rqvN2stZ8hVZG",
-    "size": 14890020,
+    "path": "",
+    "hash": "",
+    "size": "",
     "restart": "always",
     "environment": [
       "PASSWORD="
