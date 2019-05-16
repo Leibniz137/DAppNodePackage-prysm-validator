@@ -9,8 +9,9 @@ RUN echo "deb [arch=amd64] http://storage.googleapis.com/bazel-apt stable jdk1.8
 
 # Set up workspace
 WORKDIR /usr/src/app
-ENV BRANCH 0.1.2
-RUN git clone -b ${BRANCH} https://github.com/prysmaticlabs/prysm.git /usr/src/app && \
+ENV COMMIT c9ce8b524647e93820a56809cfcee78e64d19183
+RUN git clone https://github.com/prysmaticlabs/prysm.git /usr/src/app && \
+    git checkout ${COMMIT} && \
     bazel build //validator:validator
 
 FROM alpine
