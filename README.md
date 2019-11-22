@@ -17,17 +17,24 @@
 
 ![](https://i.imgur.com/11y8pgQ.png)
 
-3. Go to https://prylabs.net/participate
+# Post-Installation Instructions
 
-    3.1 Skip step one, go to number two (Get GöETH — Test ether) and follow the steps
+Go to https://prylabs.net/participate
 
-    3.2 Generate a validator public / private key
+* Skip step 1
 
-    To obtain this data you will have to download a file from your dappnode, to do this:
+* Go to step 2 (Get GöETH — Test ether) and follow the steps
 
-    * Go to: http://my.dappnode/#/Packages/prysm-validator.public.dappnode.eth
-    * File Manager > Download from DNP 
+* Generate a validator public / private key
+
+    To obtain this data you will have to download a file from your DAppNode:
+
+    * Go to: http://my.dappnode/#/Packages/prysm-validator.public.dappnode.eth/file-manager
+        
     * Write `/data/deposit_data.txt` and click Download
+
+        ![](https://i.imgur.com/66P7Aei.png)
+
     * Open the file, and you will get something like this:
 
         ```
@@ -37,22 +44,27 @@
 
         ===========================================================
         ```
+        
     * Paste the value `0xbc0000006...` in the field `your validator deposit data`
-   ![](https://i.imgur.com/mZVLC6u.png)
-   
-    3.2 Skip step four and go to number five (Send a validator deposit) and `Make deposit`.
 
-    3.3 Wait for your validator assignment (it takes a while)
+        ![](https://i.imgur.com/mZVLC6u.png)
+   
+* Skip step 4 
+* Go to step 5 (Send a validator deposit) and `Make deposit`.
+
+    ![](https://i.imgur.com/nvfy5Qu.png)
+
+
+* Wait for your validator assignment (it takes a while)
     
     ![](https://i.imgur.com/fmDspYw.png)
     
     
 **Congratulations! With this you will already have a network validator node on testnet**
 
-You can check it by looking at the validator logs: http://my.dappnode/#/Packages/prysm-validator.public.dappnode.eth
+You can check it by looking at the validator [logs](http://my.dappnode/#/Packages/prysm-validator.public.dappnode.eth/logs)
 
 ![](https://i.imgur.com/Sfq88es.png)
-
 
 ## Note
 
