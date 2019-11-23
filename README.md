@@ -1,6 +1,6 @@
 # Prysm validator Ethereum2.0 DAppNode Package
 
-[![DAppNode Available](https://img.shields.io/badge/DAppNode-Available-brightgreen.svg)](http://my.admin.dnp.dappnode.eth/#/installer/%2Fipfs%2FQmb6E3GRREeDveyg7AHBQGMTPLa2u53YE3QLhXiE88Jbo8)
+[![DAppNode Available](https://img.shields.io/badge/DAppNode-Available-brightgreen.svg)](http://my.dappnode/#/installer/prysm-validator.public.dappnode.eth)
 
 [![Prysm github](https://img.shields.io/badge/Prysm-Github-blue.svg)](https://prylabs.net/)
 [![Prysm participate](https://img.shields.io/badge/Prysm-website-753a88.svg)](https://prylabs.net/participate)
